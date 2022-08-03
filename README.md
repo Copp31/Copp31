@@ -1,6 +1,6 @@
-![](https://github.com/Copp31/Copp31/blob/main/header.png)
+![coppeliaSkills](https://github.com/Copp31/Copp31/blob/main/header.png)
 
-# Hi, I’m Coppélia 👋 
+## Im JavaScript and Python lover
 
 - 👀 I’m interested in web development, algorithm, and sound design
 - 🌱 I’ve been studying **Artificial Intelligence**, **Web development** and **Internet of Things**

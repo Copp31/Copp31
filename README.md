@@ -1,5 +1,5 @@
 
-#Hi, I’m Coppélia 👋 Im from Montreal :metal: 
+# Hi, I’m Coppélia 👋 Im from Montreal :metal: 
 
 - 👀 I’m interested in web developpment, algorithme and sound design
 - 🌱 I’ve been studying Artificial Intelligence, Web developpment and Internet of Things

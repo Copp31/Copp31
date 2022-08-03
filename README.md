@@ -1,4 +1,4 @@
-![](https://github.com/Copp31/Copp31/header.png)
+![](https://github.com/Copp31/Copp31/blob/main/header.png)
 
 # Hi, I’m Coppélia 👋 
 

@@ -1,5 +1,5 @@
 - Hi, I’m Coppélia 👋 Im from Montreal :metal: 
-- 👀 I’m interested in coding, art and basketball
-- 🌱 I’m currently learning AI, web developpment and Internet of Things
-- 📫 How to reach me : coppelialarochefrancoeur@gmail.com
+- 👀 I’m interested in web developpment, algorithme and sound design
+- 🌱 I’ve been studying Artificial Intelligence, Web developpment and Internet of Things
+- 📫 Hit me up for your project :point_right: coppelialarochefrancoeur@gmail.com
 

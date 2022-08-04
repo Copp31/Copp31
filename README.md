@@ -1,7 +1,7 @@
 ![coppeliaSkills](https://github.com/Copp31/Copp31/blob/main/header.png)
 
 ### Hello there <img src='https://github.com/Copp31/Copp31/blob/main/waving.gif' width='30px'>
-### Hello there <img src='https://github.com/Copp31/Copp31/blob/main/bikes-bicycle.gif' width='30px'>
+### Hello there <img src='https://github.com/Copp31/Copp31/blob/main/bikes-bicycle.gif' width='80px'>
 
 
 - 👀 I’m interested in **web development**, **algorithm**, and **sound design**

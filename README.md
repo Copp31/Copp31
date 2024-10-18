@@ -1,5 +1,3 @@
-// ![coppeliaSkills](https://github.com/Copp31/Copp31/blob/main/header.png)
-
 ### Hello there <img src='https://github.com/Copp31/Copp31/blob/main/waving.gif' width='30px'>
 
 

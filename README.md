@@ -16,7 +16,11 @@
 ---
 
 
-I’m a JavaScript and Python developer specializing in web development, IoT programming, electronics, and database management. Passionate about blending art and technology, I create sound control interfaces, design hardware, and code systems that bring ideas to life. My work bridges technical precision with artistic expression, often reconfiguring data into immersive sound experiences. Currently, I’m a developer, tech consultant, sound artist, and co-director of the Festival Filministes.
+I’m a JavaScript and Python developer with a focus on web development, IoT programming, electronics, and database management. Passionate about blending technology and creativity, I design and code systems, create sound control interfaces and build custom hardware to bring innovative ideas to life. 
+
+My work explores the intersection of technical precision and artistic expression, often using data to craft immersive sound experiences that challenge how we interact with technology and art.
+
+Currently, I work as a developer, technology consultant, sound artist and co-director of the Festival Filministes, where I contribute to merging creative and technical worlds.
 
 
 

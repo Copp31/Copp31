@@ -16,7 +16,7 @@
 ---
 
 
-I’m a JavaScript and Python developer with a focus on web development, IoT programming, electronics, and database management. Passionate about blending technology and creativity, I design and code systems, create sound control interfaces and build custom hardware to bring innovative ideas to life. 
+I’m a JavaScript and Python developer with a focus on web development, IoT programming, electronics and database management. Passionate about blending technology and creativity, I design and code systems, create sound control interfaces and build custom hardware to bring innovative ideas to life. 
 
 My work explores the intersection of technical precision and artistic expression, often using data to craft immersive sound experiences that challenge how we interact with technology and art.
 

@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **web development**, **algorithm**, **sound design**, **Digital art** and **IoT projects**
 - 🌱 I’ve been studying **Artificial Intelligence**, **Web development** and **Internet of Things**
-- 📫 Hit me up for your project :point_right: coppelialarochefrancoeur@gmail.com
+- 📫 Hit me up for your project :point_right: coppelia@boite-bruyante.com
 
 ---
 

@@ -7,27 +7,30 @@ I’m **Coppélia LaRoche-Francoeur**, a creative technologist, fullstack develo
 - 🎛️ I create **custom sound control interfaces**, **interactive installations**, and **embedded devices**
 - 🌐 I’ve studied **Artificial Intelligence**, **Internet of Things**, and **digital music**
 - 🎨 I love working at the intersection of **technology, sound and digital art**
-- 📫 Want to collaborate? Let’s talk → **coppelia@boite-bruyante.com**
+- 📫 Reach out → **coppeliarochefrancoeur@gmail.com**
+- 🌐 Portfolio → [www.coppelialarochefrancoeur.com](https://www.coppelialarochefrancoeur.com)
 
 ---
 
 ### ⚒️ My fav toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" width="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px">
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" width="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px" />
+</p>
 
 ---
 
@@ -42,4 +45,3 @@ I currently work as:
 - 🎬 **Co-director of the Festival Filministes**
 
 Let's build something meaningful together.
-

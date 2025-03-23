@@ -1,7 +1,7 @@
 ### Hello there <img src='https://github.com/Copp31/Copp31/blob/main/waving.gif' width='30px'>
 
 
-I’m **Coppélia LaRoche-Francoeur**, a creative technologist, fullstack developer and sound artist based in Montréal.
+I’m **Coppélia**, a creative technologist, fullstack developer and sound artist based in Montréal.
 
 - 💻 I specialize in **web development**, **IoT systems**, and **database architecture**
 - 🎛️ I create **custom sound control interfaces**, **interactive installations**, and **embedded devices**
@@ -44,4 +44,4 @@ I currently work as:
 - 🤝 **Tech consultant for cultural organizations**
 - 🎬 **Co-director of the Festival Filministes**
 
-Let's build something meaningful together.
+Let’s create resilient infrastructures with a creative edge

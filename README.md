@@ -5,10 +5,8 @@ I’m **Coppélia**, a creative technologist, fullstack developer and sound arti
 
 - 💻 I specialize in **web development**, **IoT systems**, and **database architecture**
 - 🎛️ I create **custom sound control interfaces**, **interactive installations**, and **embedded devices**
-- 🌐 I’ve studied **Artificial Intelligence**, **Internet of Things**, and **digital music**
-- 🎨 I love working at the intersection of **technology, sound and digital art**
+- 🌐 I’ve studied **Artificial Intelligence**, **Internet of Things** and **digital music**
 - 📫 Reach out → **coppeliarochefrancoeur@gmail.com**
-- 🌐 Portfolio → [www.coppelialarochefrancoeur.com](https://www.coppelialarochefrancoeur.com)
 
 
 ### About me

@@ -18,5 +18,3 @@ I currently work as:
 - 🎧 **Sound artist and audio designer**
 - 🤝 **Tech consultant for cultural organizations**
 - 🎬 **Co-director of the Festival Filministes**
-
-Let’s create resilient infrastructures with a creative edge

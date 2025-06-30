@@ -1,4 +1,4 @@
-### Hello there <img src='https://github.com/Copp31/Copp31/blob/main/waving.gif' width='30px'>
+### Hello  <img src='https://github.com/Copp31/Copp31/blob/main/waving.gif' width='30px'>
 
 
 I’m **Coppélia**, a creative technologist, fullstack developer and sound artist based in Montréal.
